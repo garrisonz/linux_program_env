@@ -74,4 +74,4 @@ set expandtab
 
 set history=1000
 set undofile
-set undodir=/home/tony/.vimbackup/
+set undodir=/home/zyp/.vimbackup/
