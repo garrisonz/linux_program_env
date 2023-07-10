@@ -74,4 +74,4 @@ set expandtab
 
 set history=1000
 set undofile
-set undodir=/home/zyp/.vimbackup/
+set undodir=$HOME/.vim/undo
